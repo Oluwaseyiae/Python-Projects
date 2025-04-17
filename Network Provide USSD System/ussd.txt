@@ -1,0 +1,286 @@
+Data Transaction
+
+#Message
+1. Buy Data 
+2. Gift Data 
+3. Share Data 
+4. Check Data Bal 
+5. Voice/ Data ROAMING oFFERS
+6. Glo My-G Bundles
+7. App offers- NEW
+8. WIN A PRADO 
+0. Exit
+
+
+#1. Buy Data
+
+#Message
+
+1. Proceed (Auto-Renew)
+2. Proceed (0ne-oof)
+99. Back
+0. Exit
+
+    #1. Proceed (Auto-Renew)
+
+    Message
+
+    1. Mini Plans
+    2. Monthly Plans
+    3. Mega Plans
+    4. Super Mega Plans
+    5. Special Data offer
+    6. Social Bundles
+    7. Night & Weekend Plans
+    8. My-G Bundles
+    9. GLOTV Plans
+    99. Back
+    0. Exit
+
+        #1. Mini Plans
+
+        Message
+
+        1. N100 = 105MB 1 Day incl 5MB nite
+        2. N200 = 235MB 2 Days incl 25MB nite
+        3. N500 = 1.5GB 7 Days incl 1GB nite
+        4. N50 = 45MB 1 Day incl 5MB nite
+        5. More Plans
+        99. Back 
+        0. Exit
+
+            #5. More Plans
+
+            Message
+
+            1. N750 = 1.1GB 14 Days
+            2. N1000 = 3.5GB 7 Days incl 2GBB nite
+            3. N2000 = 8.5GB 7 Days incl 2.5GB nite
+            4. N5000 = 20.5GB 7 Days incl 2GB nite
+            99. Back 
+            0. Exit
+
+        #2. Monthly Plans
+
+        Message
+
+        1. N1000 = 2.6GB 30 Day incl 1.5GB nite
+        2. N1500 = 5GB 30 Days incl 3GB nite
+        3. N2000 = 6.15GB 30 Days incl 3GB nite
+        4. N2500 = 7.25GB 30 Day incl 3GB nite
+        5. More Plans
+        99. Back 
+        0. Exit
+
+            #5. More Plans
+
+                Message
+
+                1. N3000 = 10GB 30 Days incl 2GBB nite
+                2. N4000 = 12.5GB 30 Days incl 2GBB nite
+                3. N5000 = 16GB 30 Days incl 2.5GB nite
+                4. N6000 = 20.5GB 30 Days incl 2GB nite
+                99. Back 
+                0. Exit
+        
+        #3. Mega Plans
+
+         Message
+
+        1. N10000 = 38GB 30 Days incl 2GBB nite
+        2. N15000 = 64GB 30 Days incl 2GBB nite
+        3. N20000 = 107GB 30 Days incl 2GB nite
+        4. More Plans
+        99. Back 
+        0. Exit
+
+            #4. More Plans
+
+            Message
+
+            1. N25000 = 135GB 30 Days 
+            2. N30000 = 165GB for 30 Days 
+            3. N40000 = 220GB 30 Days 
+            4. N50000 = 310GB for 60 Days 
+            5. N60000 = 355GB for 90 Days 
+            6. N75000 = 475GB for 90 Days 
+            99. Back 
+            0. Exit
+
+            
+        #4. Super Mega Plans
+
+        Message
+
+        1. N25000 = 135GB 30 Days 
+        2. N30000 = 165GB for 30 Days 
+        3. N40000 = 220GB 30 Days 
+        4. N50000 = 310GB for 60 Days 
+        5. N60000 = 355GB for 90 Days 
+        6. N75000 = 475GB for 90 Days 
+        99. Back 
+        0. Exit
+
+        #5. Special Data offer
+
+        Message
+
+        1. Special Plans
+        2. Campus Booster
+        3. Hourly Bundles
+        4. Betting Agent Plan
+        99. Back 
+        0. Exit
+
+            #1. Special Plans
+
+            Message 
+
+            1. N350 = 1GB 1 Day
+            2. N500 = 2GB 1 Day incl 1GBB nite
+            3. N600 = 3.55GB 1 Day incl 2GB nite
+            4. N1000 = 5.1GB 2 Days incl 2GB nite
+            5. N1500 = 5.9GB 7 Days incl 2GB nite
+            99. Back 
+            0. Exit
+
+
+            #2. Campus Booster
+
+            Message
+
+            1. N100 = 200MB 1 Day
+            2. N200 = 445MB 2 Days incl 25MB nite on campus
+            3. More
+            99. Back 
+            0. Exit
+                
+                #3. More
+
+                Message
+
+                1. N500 = 2GB 7 Days incl 1GB nite on campus
+                2. N1000 = 4.2GB 30 Days incl 2GB nite on campus
+                3. More
+                99. Back 
+                0. Exit
+
+                    #3. More
+
+                    Message
+
+                    1. N2000 = 9.8GB 30 Days incl 3.5GB nite on campus
+                    2. N5000 = 30GB 30 Days incl 3GB nite on campus
+                    99. Back 
+                    0. Exit
+
+
+            #3. Hourly Bundles
+
+            Message
+
+            1. N200 = 500MB 1hr
+            2. N300 = 1GB 2hrs
+            99. Back 
+            0. Exit
+                
+
+
+            #4. Betting Agent Plan
+
+            Message
+
+            1. N1000 = 4GB 30 Days
+            2. N5000 = 30GB 30 Days
+            3. N10000 = 75GB 30 Days
+            99. Back 
+            0. Exit
+
+        #6. Social Bundles
+
+        Message
+
+        1. Bundles for WhatsApp, Twitter, Facebook, TikTok, snapchat, Telegram, Instagram, Threads abd GloTV
+        2. MY-G Bundles-WhatsApp, TikTok, Insta, Snapchat, Boomplay
+        99. Back 
+        0. Exit
+
+            #1. Bundles for WhatsApp, Twitter, Facebook, TikTok, snapchat, Telegram, Instagram, Threads abd GloTV
+
+            Message
+
+            1. N50 = 135MB 3 Days
+            2. N100 = 335MB 7 Days
+            3. N300 = 1.1GB 10 Days
+            4. N500 = 1.8GB 15 Days
+            99. Back 
+            0. Exit
+
+            #2. MY-G Bundles-WhatsApp, TikTok, Insta, Snapchat, Boomplay
+
+             Message
+
+            Apps: WhatsApp, TikTok, Insta, Boomplay, Snapchat
+            1. N100 = 300MB + 1 hr, 1 Day
+            2. N300 = 1GB + 1 hr, 3 Days
+            3. N500 = 1.5GB + 1 hr, 7 Days
+            4. N1000 = 3.5GB + 1 hr, 30 Days
+            99. Back 
+            0. Exit
+
+        #7. Night & Weekend Plans
+
+        Message
+
+        1. N60 = 350MB 1 Day (12am - 05am)
+        2. N1200 = 750MB 1 Day (12am - 05am)
+        3. N200 = 875MB 2 Days SAT-SUN
+        4. N500 = 2.5MB 2 Days SAT-SUN
+        99. Back 
+        0. Exit
+
+        #8. My-G Bundles
+
+        Message
+
+        Apps: WhatsApp, TikTok, Insta, Boomplay, Snapchat
+        1. N100 = 300MB + 1 hr, 1 Day
+        2. N300 = 1GB + 1 hr, 3 Days
+        3. N500 = 1.5GB + 1 hr, 7 Days
+        4. N1000 = 3.5GB + 1 hr, 30 Days
+        99. Back 
+        0. Exit
+
+        #9. GLOTV Plans
+
+        Message
+
+        1. N150 = VOD 500MB 5 Days
+        2. N450 = VOD 2GB  7 Days
+        3. N1,400 = VOD 6GB 30 Days
+        4. N900 = VOD + TV 2GB 7 Days
+        5. N3,200 = VOD + TV 6GB 30 Days
+        99. Back 
+        0. Exit
+
+#2. Gift Data 
+    
+Message
+
+1. Mini Plans
+2. Monthly Plans
+3. Mega Plans
+4. Super Mega Plans
+5. Special Data offer
+6. Social Bundles
+7. Night & Weekend Plans
+8. My-G Bundles
+9. GLOTV Plans
+99. Back
+0. Exit
+
+            ----------------REPEATED STEPS------------------------
+
+            Enter Giftee Number (Glo Line):
+
+                Please press 0 to confirm if you want to gift N10000 = 38GB 30 Days incl 2GB nite to 08075039814?
